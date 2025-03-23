@@ -14,3 +14,8 @@ This is similar to what this [Zimbra.org forum thread: FOSS - How to patch/build
 ## How to use
 
 If you have a Zimbra build wrapper script you can check [maldua-pimbra-config repo](https://github.com/maldua-pimbra/maldua-pimbra-config/) to learn on how to integrate Pimbra onto your system.
+
+## Similar alternatives
+
+- Manual CVE-2025-27915 patch: [FOSS - How to patch/build source to include missing commits for 10.1.5/6](https://forums.zimbra.org/viewtopic.php?t=73348)
+- [Ianw1974's zimbra-build-scripts](https://github.com/ianw1974/zimbra-build-scripts) uses an alternate method of applying changes based on a [patches directory](https://github.com/ianw1974/zimbra-build-scripts/tree/558ae8cdcf97ff2e1cad277e1c9484a6d2c8d8fe/patches).
